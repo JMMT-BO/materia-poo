@@ -1,4 +1,6 @@
-# SUSTENTACION talle-constru
+# SUSTENTACION talle-constructores-this-metodos
+7.1 aparecen esos valores porqué no asignamos ninguno y esos son los valores que por defecto tienen los tipos de datos
+7.2 ya no copila porqué agregamos nuevos valores que deberían tener una linea para expresarse
 7.5 Punto 3
 1. p1.calcularCosto()
    Se ejecuta la versión de calcularCosto sin parámetros.
