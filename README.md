@@ -1,4 +1,15 @@
 # SUSTENTACION talle-constru
+7.5 Punto 3
+1. p1.calcularCosto()
+   Se ejecuta la versión de calcularCosto sin parámetros.
+   Esta versión devuelve 20000.0, porque utiliza el valor establecido dentro del método.
+2. p1.calcularCosto(4000)
+   Se ejecuta la versión de calcularCosto que recibe un double como parámetro.
+   El valor 4000 puede utilizarse como double, por lo que devuelve 4000.0.
+3. p1.calcularCosto("4000")
+   No compila, porque "4000" es un dato de tipo String, y no existe una versión de calcularCosto que reciba un String.
+
+
 9. Parte C: retos y análisis
 1. Analiza estas cuatro declaraciones de constructores para la clase Habitacion e indica cuáles pueden existir al
 mismo tiempo en la clase y cuáles no. Justifica cada caso con el concepto de firma.
